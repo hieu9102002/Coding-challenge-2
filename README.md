@@ -1,4 +1,4 @@
-# Coding-challenge
+# Coding-challenge-2
 To install dependencies: npm install
 
 To run the app in development and inteprete code updates in real time: npm run start:dev
